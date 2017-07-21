@@ -1,0 +1,10 @@
+<wpml-config>
+	<admin-texts>
+		<key name="woo-fiscalita-italiana">
+			<key name="indirizzo"/>
+		</key>
+		<key name="woo-fiscalita-italiana-settings">
+			<key name="odr"/>
+		</key>
+	</admin-texts>
+</wpml-config>
